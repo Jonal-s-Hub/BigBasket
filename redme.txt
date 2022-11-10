@@ -1,0 +1,6 @@
+This project is meant for a ecommerce software
+Below is the process of running the scripts
+ab
+cd
+ef
+ghi
